@@ -1,0 +1,12 @@
+.from-blog {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.from-blog .blog__item {
+	margin-bottom: 30px;
+}
+
+.from-blog__title {
+	margin-bottom: 70px;
+}
