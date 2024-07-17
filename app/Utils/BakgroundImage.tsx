@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 const BakgroundImage = (selector:string) => {
     const elements=document.querySelectorAll(selector)

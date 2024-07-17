@@ -1,7 +1,7 @@
 
 "use client"
 import React,{useEffect} from 'react';
-import SetBakgroundImage from '@/app/src/Utils/BakgroundImage';
+import SetBakgroundImage from '@/app/Utils/BakgroundImage';
 import "../FeatureProduct/Feature.css";
 
 const Feature = () => {

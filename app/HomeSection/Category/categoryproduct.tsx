@@ -1,6 +1,6 @@
 "use client";
 import React, { useEffect } from 'react';
-import BakgroundImage from '@/app/src/Utils/BakgroundImage';
+import BakgroundImage from '@/app/Utils/BakgroundImage';
 import "../Category/Category.css"
 
 const CarouselSlider = () => {

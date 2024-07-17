@@ -1,9 +1,9 @@
 import React from 'react'
-import Hero from './src/pages/HomeSection/HeroSection/hero'
-import FeatureProduct from './src/pages/HomeSection/FeatureProduct/feature'
-import CategoryProduct from './src/pages/HomeSection/Category/categoryproduct'
-import BlogSection from './src/pages/HomeSection/Blog/blogSection'
-import LatestProduct from './src/pages/HomeSection/LatestProduct/latestProduct'
+import Hero from './HomeSection/HeroSection/hero'
+import FeatureProduct from './HomeSection/FeatureProduct/feature'
+import CategoryProduct from './HomeSection/Category/categoryproduct'
+import BlogSection from './HomeSection/Blog/blogSection'
+import LatestProduct from './HomeSection/LatestProduct/latestProduct'
 const page = () => {
   return (
     <>
