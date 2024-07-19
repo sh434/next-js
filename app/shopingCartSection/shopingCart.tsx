@@ -1,5 +1,5 @@
 import React from 'react'
-import  "../shopingCartSection/shoping.css"
+import  "./shoping.css"
 const shopingCart = () => {
     return (
         <section className="shoping-cart spad">

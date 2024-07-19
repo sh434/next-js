@@ -1,8 +1,12 @@
 import React from 'react'
 import Team from './Team'
+import Breadcrumb from '../Components/Breadcrumb'
 const About = () => {
   return (
-    <div><Team/></div>
+    <div>
+      <Breadcrumb />
+      <Team />
+    </div>
   )
 }
 
