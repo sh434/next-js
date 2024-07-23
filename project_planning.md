@@ -3,24 +3,32 @@
 ## **Week 1: Project Setup & Basic Structure**
 
 - **Day 1:**
-  - Frontend: Next.js project setup karna. (Done)
-  - Backend: Strapi project setup karna.
+  - Frontend: Next.js project setup karna. (Done) 
+      ```sh
+    npx create-next-app@latest
+    ```
+  - Backend: Strapi project setup karna.-DONE 
+  Email:'sikhakumari01@gmail.com'
+     password:'Shikha@2002'
+     ```sh
+    npx create-strapi-app@latest my-project
+    ``
 
 - **Day 2:**
   - Frontend: Basic folder structure banana (components, pages, styles). (Done)
-  - Backend: Strapi admin panel access setup karna aur initial configuration karna.
+  - Backend: Strapi admin panel access setup karna aur initial configuration karna.-dONE
 
 - **Day 3:**
   - Frontend: Home, Products, Cart pages ke liye basic routes create karna. (Done)
-  - Backend: Strapi mein content types create karna (Products, Categories).
+  - Backend: Strapi mein content types create karna (Products, Categories).-dONE
 
 - **Day 4:**
   - Frontend: Home page ka basic layout aur styling banana. (Done)
-  - Backend: Initial dummy data seed karna (Products aur Categories).
+  - Backend: Initial dummy data seed karna (Products aur Categories).-done
 
 - **Day 5:**
   - Frontend: Navbar aur Footer components banana. (Done)
-  - Backend: Relationships define karna (Products to Categories).
+  - Backend: Relationships define karna (Products to Categories).-Done
 
 ## **Week 2: Authentication & User Management**
 
