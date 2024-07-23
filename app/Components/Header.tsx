@@ -29,7 +29,7 @@ const Header = () => {
                   <span>Pages</span>
                   <ul className="header__menu__dropdown">
                     <li>
-                      <Link href="/shopDetail">Shop Details</Link>
+                      <Link href="/ShopSection">Shop Details</Link>
                     </li>
                     <li>
                       <Link href="/shopingCartSection">Shopping Cart</Link>
