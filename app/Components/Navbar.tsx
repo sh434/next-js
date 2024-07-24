@@ -49,7 +49,7 @@ const Navbar = () => {
                   </ul>
                 </div>
                 <div className="header__top__right__auth">
-                  <Link href="#">
+                  <Link href="/authFrom">
                     <i className="bi bi-person" /> Login
                   </Link>
                 </div>
