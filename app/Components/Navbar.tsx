@@ -4,7 +4,7 @@ import Link from 'next/link';
 import "../Styles/Navbar.css";
 
 const Navbar: React.FC<{ onLoginClick: () => void }> = ({ onLoginClick }) => {
-  console.log('Navbar received onLoginClick:', onLoginClick);
+
 
   return (
     <div className="header__top">
@@ -49,15 +49,12 @@ const Navbar: React.FC<{ onLoginClick: () => void }> = ({ onLoginClick }) => {
                 </ul>
               </div>
               <div className="header__top__right__auth">
-                <button 
-                  onClick={() => { 
-                    console.log('Login button clicked');
-                    onLoginClick(); 
-                  }} 
+                <div
+                  onClick={onLoginClick}
                   className="login-button"
                 >
                   <i className="bi bi-person" /> Login
-                </button>
+                </div>
               </div>
             </div>
           </div>

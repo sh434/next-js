@@ -8,7 +8,7 @@ const blogSection = () => {
                 <div className="row">
                     <div className="col-lg-12">
                         <div className="section-title from-blog__title">
-                            <h2 className="text-center">From The Blog</h2>
+                            <h2 className="text-center">New Blog Posts</h2>
                         </div>
                     </div>
                 </div>

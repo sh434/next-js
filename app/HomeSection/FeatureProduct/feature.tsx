@@ -9,6 +9,7 @@ const Feature = () => {
         SetBakgroundImage('.set-bg');
     }, []);
     return (
+     
         <section className="featured spad">
             <div className="container">
                 <div className="row">

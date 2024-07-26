@@ -1,0 +1,29 @@
+.ftco-section {
+    padding: 6em 0;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.heading-section .subheading {
+    font-size: 18px;
+    display: block;
+    margin-bottom: 10px;
+    font-family: "Lora", Georgia, serif;
+    font-style: italic;
+    color: #82ae46;
+}
+.heading-section h2 {
+    position: relative;
+    font-size: 40px;
+    font-weight: 600;
+    color: #000000;
+    font-family: "Poppins", Arial, sans-serif;
+}
+.deal-of-the-day h3 a {
+    color: #82ae46;
+}
+
+#timer {
+    width: 80%;
+}
